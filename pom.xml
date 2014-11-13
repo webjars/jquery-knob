@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-knob</artifactId>
-    <version>1.2.11</version>
+    <version>1.2.12-SNAPSHOT</version>
     <name>jQuery Knob</name>
     <description>WebJar for jQuery Knob</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jquery-knob</url>
         <connection>scm:git:https://github.com/webjars/jquery-knob.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-knob.git</developerConnection>
-        <tag>jquery-knob-1.2.11</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
